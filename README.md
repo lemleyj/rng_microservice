@@ -8,4 +8,4 @@ TO USE:
 
  UML Diagram: 
 
-
+![Screenshot](rng_microservice_uml.png)
